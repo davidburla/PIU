@@ -1,0 +1,10 @@
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\bin\Debug\Configurare S3.exe.config
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\bin\Debug\Configurare S3.exe
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\bin\Debug\Configurare S3.pdb
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare S3.csprojAssemblyReference.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare_S3.Form1.resources
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare_S3.Properties.Resources.resources
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare S3.csproj.GenerateResource.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare S3.csproj.CoreCompileInputs.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare S3.exe
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Configurare S3\Configurare S3\obj\Debug\Configurare S3.pdb

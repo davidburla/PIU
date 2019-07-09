@@ -1,0 +1,10 @@
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\bin\Debug\Pregatire test2.exe.config
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\bin\Debug\Pregatire test2.exe
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\bin\Debug\Pregatire test2.pdb
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire test2.csprojAssemblyReference.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire_test2.Form1.resources
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire_test2.Properties.Resources.resources
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire test2.csproj.GenerateResource.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire test2.csproj.CoreCompileInputs.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire test2.exe
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Pregatire test2\Pregatire test2\obj\Debug\Pregatire test2.pdb

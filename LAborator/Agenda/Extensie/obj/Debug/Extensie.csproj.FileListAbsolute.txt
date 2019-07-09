@@ -1,0 +1,6 @@
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\obj\Debug\Extensie.csprojAssemblyReference.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\obj\Debug\Extensie.csproj.CoreCompileInputs.cache
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\bin\Debug\Extensie.dll
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\bin\Debug\Extensie.pdb
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\obj\Debug\Extensie.dll
+C:\Users\burla\OneDrive\Desktop\An II\PIUc\LAborator\Agenda\Extensie\obj\Debug\Extensie.pdb
